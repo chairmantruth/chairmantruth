@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chairmantruth
-- 👀 I’m interested in coding, machine learning, anime, music, data
+- 👀 I’m interested in cloud computing, machine learning, anime, music, data
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any project for now
 - 📫 Chairmantruth@gmail.com. Inbox and let's get along
